@@ -1,0 +1,510 @@
+{
+  "open_hour": [
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "from_date": "2024-06-17Z",
+      "to_date": "2024-06-19Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Summer Schedule 2024",
+      "from_date": "2024-06-21Z",
+      "to_date": "2024-07-27Z",
+      "from_hour": "14:30",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "FRIDAY",
+        "desc": "Friday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Al-Hijra New Year",
+      "from_date": "2024-07-08Z",
+      "to_date": "2024-07-08Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "from_date": "2024-07-17Z",
+      "to_date": "2024-07-17Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "WEDNESDAY",
+        "desc": "Wednesday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Summer Schedule",
+      "from_date": "2024-07-29Z",
+      "to_date": "2024-08-23Z",
+      "from_hour": "14:30",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Assumption Day",
+      "from_date": "2024-08-15Z",
+      "to_date": "2024-08-15Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "THURSDAY",
+        "desc": "Thursday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "JZ",
+      "from_date": "2024-08-27Z",
+      "to_date": "2024-08-30Z",
+      "from_hour": "16:30",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Prophet’s Birthday JZ",
+      "from_date": "2024-09-16Z",
+      "to_date": "2024-09-16Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "MONDAY",
+        "desc": "Monday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "University Closed-Minister of Higher Education",
+      "from_date": "2024-09-24Z",
+      "to_date": "2024-09-24Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "TUESDAY",
+        "desc": "Tuesday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "from_date": "2024-09-25Z",
+      "to_date": "2024-09-27Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "University Closed-Minister of Higher Education",
+      "from_date": "2024-10-01Z",
+      "to_date": "2024-10-06Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Independence Day JZ",
+      "from_date": "2024-11-22Z",
+      "to_date": "2024-11-22Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "FRIDAY",
+        "desc": "Friday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "University's decision to shift Beirut campus operations online. (Safety reasons) JZ",
+      "from_date": "2024-11-25Z",
+      "to_date": "2024-11-25Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "MONDAY",
+        "desc": "Monday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "University Closed-Minister of Higher Education (Safety reasons) JZ",
+      "from_date": "2024-11-27Z",
+      "to_date": "2024-11-27Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "WEDNESDAY",
+        "desc": "Wednesday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Post-Finals Fall 2024 Schedule JZ",
+      "from_date": "2024-12-18Z",
+      "to_date": "2024-12-18Z",
+      "from_hour": "22:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "WEDNESDAY",
+        "desc": "Wednesday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Post-Finals Fall 2024 Schedule JZ",
+      "from_date": "2024-12-19Z",
+      "to_date": "2024-12-19Z",
+      "from_hour": "20:30",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "THURSDAY",
+        "desc": "Thursday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "JZ",
+      "from_date": "2024-12-20Z",
+      "to_date": "2024-12-23Z",
+      "from_hour": "07:30",
+      "to_hour": "08:00",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "JZ",
+      "from_date": "2024-12-20Z",
+      "to_date": "2024-12-23Z",
+      "from_hour": "16:30",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Christmas JZ",
+      "from_date": "2024-12-24Z",
+      "to_date": "2024-12-31Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: New Year JZ",
+      "from_date": "2025-01-01Z",
+      "to_date": "2025-01-01Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Armenian Christmas JZ",
+      "from_date": "2025-01-06Z",
+      "to_date": "2025-01-06Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EVENT",
+        "desc": "Event"
+      },
+      "inherited": false,
+      "desc": "End of Term",
+      "from_date": "2025-01-15Z",
+      "status": {
+        "value": "OPEN",
+        "desc": "Open"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Annunciation Day JZ",
+      "from_date": "2025-03-25Z",
+      "to_date": "2025-03-25Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "TUESDAY",
+        "desc": "Tuesday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Al FitrDay JZ",
+      "from_date": "2025-04-01Z",
+      "to_date": "2025-04-02Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Eastern and Western Easter JZ",
+      "from_date": "2025-04-18Z",
+      "to_date": "2025-04-21Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Labor Day JZ",
+      "from_date": "2025-05-01Z",
+      "to_date": "2025-05-01Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "day_of_week": {
+        "value": "THURSDAY",
+        "desc": "Thursday"
+      },
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Al Adha JZ",
+      "from_date": "2025-06-07Z",
+      "to_date": "2025-06-09Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: Hijra New Year JZ",
+      "from_date": "2025-06-27Z",
+      "to_date": "2025-06-27Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    },
+    {
+      "type": {
+        "value": "EXCEPTION",
+        "desc": "Exception"
+      },
+      "inherited": false,
+      "desc": "Holiday: St. Mary’s Assumption JZ",
+      "from_date": "2025-08-15Z",
+      "to_date": "2025-08-15Z",
+      "from_hour": "00:00",
+      "to_hour": "23:59",
+      "status": {
+        "value": "CLOSE",
+        "desc": "Closed"
+      }
+    }
+  ]
+}
